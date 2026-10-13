@@ -1,0 +1,512 @@
+bus_id,from_city,to_city,from_stand,depart,arrive,bus_type,fare,seats_left
+PUN-SAT-0530,Pune,Satara,Swargate,05:30,07:59,Hirkani (Semi-luxury),265,6
+PUN-SAT-0830,Pune,Satara,Swargate,08:30,10:59,Shivshahi (AC),295,5
+PUN-SAT-0945,Pune,Satara,Swargate,09:45,12:14,Shivshahi (AC),295,27
+SAT-PUN-0530,Satara,Pune,Satara Bus Stand,05:30,07:59,Shivshahi (AC),295,38
+SAT-PUN-0615,Satara,Pune,Satara Bus Stand,06:15,08:44,Lalpari (Ordinary),195,35
+SAT-PUN-0830,Satara,Pune,Satara Bus Stand,08:30,10:59,Hirkani (Semi-luxury),265,34
+PUN-KOL-0530,Pune,Kolhapur,Swargate,05:30,10:36,Shivshahi (AC),610,17
+PUN-KOL-0615,Pune,Kolhapur,Swargate,06:15,11:21,Hirkani (Semi-luxury),540,13
+PUN-KOL-0830,Pune,Kolhapur,Swargate,08:30,13:36,Shivshahi (AC),610,6
+PUN-KOL-0945,Pune,Kolhapur,Swargate,09:45,14:51,Lalpari (Ordinary),400,24
+PUN-KOL-1330,Pune,Kolhapur,Swargate,13:30,18:36,Lalpari (Ordinary),400,22
+PUN-KOL-1500,Pune,Kolhapur,Swargate,15:00,20:06,Shivshahi (AC),610,38
+PUN-KOL-2230,Pune,Kolhapur,Swargate,22:30,03:36,Shivshahi (AC),610,2
+KOL-PUN-0615,Kolhapur,Pune,Kolhapur CBS,06:15,11:21,Shivshahi (AC),610,36
+KOL-PUN-0700,Kolhapur,Pune,Kolhapur CBS,07:00,12:06,Hirkani (Semi-luxury),540,4
+KOL-PUN-0945,Kolhapur,Pune,Kolhapur CBS,09:45,14:51,Lalpari (Ordinary),400,14
+KOL-PUN-1330,Kolhapur,Pune,Kolhapur CBS,13:30,18:36,Shivshahi (AC),610,5
+KOL-PUN-1715,Kolhapur,Pune,Kolhapur CBS,17:15,22:21,Hirkani (Semi-luxury),540,6
+KOL-PUN-1900,Kolhapur,Pune,Kolhapur CBS,19:00,00:06,e-Shivai (Electric AC),610,17
+KOL-PUN-2230,Kolhapur,Pune,Kolhapur CBS,22:30,03:36,e-Shivai (Electric AC),610,23
+MUM-PUN-0830,Mumbai,Pune,Dadar,08:30,11:50,Lalpari (Ordinary),260,38
+MUM-PUN-0945,Mumbai,Pune,Dadar,09:45,13:05,Hirkani (Semi-luxury),350,34
+MUM-PUN-1100,Mumbai,Pune,Dadar,11:00,14:20,Hirkani (Semi-luxury),350,10
+MUM-PUN-1900,Mumbai,Pune,Dadar,19:00,22:20,e-Shivai (Electric AC),400,24
+MUM-PUN-2230,Mumbai,Pune,Dadar,22:30,01:50,Shivshahi (AC),400,35
+PUN-MUM-0530,Pune,Mumbai,Wakdewadi (Shivajinagar),05:30,08:50,Lalpari (Ordinary),260,20
+PUN-MUM-0830,Pune,Mumbai,Wakdewadi (Shivajinagar),08:30,11:50,e-Shivai (Electric AC),400,17
+PUN-MUM-1100,Pune,Mumbai,Wakdewadi (Shivajinagar),11:00,14:20,Lalpari (Ordinary),260,13
+PUN-MUM-1330,Pune,Mumbai,Wakdewadi (Shivajinagar),13:30,16:50,Shivneri (Premium AC),540,20
+PUN-MUM-2230,Pune,Mumbai,Wakdewadi (Shivajinagar),22:30,01:50,Hirkani (Semi-luxury),350,31
+PUN-NAS-0615,Pune,Nashik,Wakdewadi (Shivajinagar),06:15,10:55,Shivneri (Premium AC),755,16
+PUN-NAS-0700,Pune,Nashik,Wakdewadi (Shivajinagar),07:00,11:40,Shivneri (Premium AC),755,27
+PUN-NAS-0945,Pune,Nashik,Wakdewadi (Shivajinagar),09:45,14:25,Shivneri (Premium AC),755,25
+PUN-NAS-1330,Pune,Nashik,Wakdewadi (Shivajinagar),13:30,18:10,Shivshahi (AC),555,14
+PUN-NAS-1500,Pune,Nashik,Wakdewadi (Shivajinagar),15:00,19:40,Hirkani (Semi-luxury),495,32
+PUN-NAS-1900,Pune,Nashik,Wakdewadi (Shivajinagar),19:00,23:40,e-Shivai (Electric AC),555,5
+PUN-NAS-2230,Pune,Nashik,Wakdewadi (Shivajinagar),22:30,03:10,Lalpari (Ordinary),370,7
+NAS-PUN-0615,Nashik,Pune,Nashik CBS,06:15,10:55,e-Shivai (Electric AC),555,38
+NAS-PUN-0700,Nashik,Pune,Nashik CBS,07:00,11:40,e-Shivai (Electric AC),555,33
+NAS-PUN-0830,Nashik,Pune,Nashik CBS,08:30,13:10,Shivshahi (AC),555,35
+NAS-PUN-1330,Nashik,Pune,Nashik CBS,13:30,18:10,Lalpari (Ordinary),370,7
+NAS-PUN-2230,Nashik,Pune,Nashik CBS,22:30,03:10,Shivneri (Premium AC),755,17
+MUM-NAS-0530,Mumbai,Nashik,Mumbai Central,05:30,09:16,Shivshahi (AC),450,32
+MUM-NAS-0615,Mumbai,Nashik,Mumbai Central,06:15,10:01,Hirkani (Semi-luxury),400,32
+MUM-NAS-0700,Mumbai,Nashik,Mumbai Central,07:00,10:46,Lalpari (Ordinary),300,19
+MUM-NAS-0830,Mumbai,Nashik,Mumbai Central,08:30,12:16,Shivneri (Premium AC),610,38
+MUM-NAS-0945,Mumbai,Nashik,Mumbai Central,09:45,13:31,Hirkani (Semi-luxury),400,9
+MUM-NAS-1330,Mumbai,Nashik,Mumbai Central,13:30,17:16,Shivshahi (AC),450,10
+NAS-SHI-1100,Nashik,Shirdi,Nashik CBS,11:00,13:00,Lalpari (Ordinary),160,23
+NAS-SHI-1500,Nashik,Shirdi,Nashik CBS,15:00,17:00,Shivshahi (AC),240,15
+NAS-SHI-1900,Nashik,Shirdi,Nashik CBS,19:00,21:00,Lalpari (Ordinary),160,15
+PUN-CHH-0615,Pune,Chhatrapati Sambhajinagar,Wakdewadi (Shivajinagar),06:15,11:28,Hirkani (Semi-luxury),550,30
+PUN-CHH-0700,Pune,Chhatrapati Sambhajinagar,Wakdewadi (Shivajinagar),07:00,12:13,Shivneri (Premium AC),845,10
+PUN-CHH-1500,Pune,Chhatrapati Sambhajinagar,Wakdewadi (Shivajinagar),15:00,20:13,Shivshahi (AC),625,33
+PUN-CHH-2230,Pune,Chhatrapati Sambhajinagar,Wakdewadi (Shivajinagar),22:30,03:43,Shivneri (Premium AC),845,27
+PUN-SOL-0830,Pune,Solapur,Swargate,08:30,14:03,Shivshahi (AC),660,28
+PUN-SOL-0945,Pune,Solapur,Swargate,09:45,15:18,Shivneri (Premium AC),900,28
+PUN-SOL-1100,Pune,Solapur,Swargate,11:00,16:33,Lalpari (Ordinary),440,15
+PUN-SOL-1330,Pune,Solapur,Swargate,13:30,19:03,Hirkani (Semi-luxury),590,4
+PUN-SOL-1715,Pune,Solapur,Swargate,17:15,22:48,Shivshahi (AC),660,1
+NAG-AMR-0530,Nagpur,Amravati,Nagpur Ganeshpeth,05:30,08:56,Lalpari (Ordinary),270,14
+NAG-AMR-0615,Nagpur,Amravati,Nagpur Ganeshpeth,06:15,09:41,Lalpari (Ordinary),270,2
+NAG-AMR-0830,Nagpur,Amravati,Nagpur Ganeshpeth,08:30,11:56,Shivshahi (AC),410,4
+NAG-AMR-1100,Nagpur,Amravati,Nagpur Ganeshpeth,11:00,14:26,Shivneri (Premium AC),560,15
+NAG-AMR-1900,Nagpur,Amravati,Nagpur Ganeshpeth,19:00,22:26,Shivshahi (AC),410,31
+KOL-SAN-0530,Kolhapur,Sangli,Kolhapur CBS,05:30,07:30,e-Shivai (Electric AC),130,6
+KOL-SAN-0630,Kolhapur,Sangli,Kolhapur CBS,06:30,08:30,Lalpari (Ordinary),90,21
+KOL-SAN-0800,Kolhapur,Sangli,Kolhapur CBS,08:00,10:00,e-Shivai (Electric AC),130,6
+KOL-SAN-0900,Kolhapur,Sangli,Kolhapur CBS,09:00,11:00,Lalpari (Ordinary),90,12
+KOL-SAN-1030,Kolhapur,Sangli,Kolhapur CBS,10:30,12:30,Lalpari (Ordinary),90,8
+KOL-SAN-1130,Kolhapur,Sangli,Kolhapur CBS,11:30,13:30,Lalpari (Ordinary),90,17
+KOL-SAN-1200,Kolhapur,Sangli,Kolhapur CBS,12:00,14:00,Lalpari (Ordinary),90,4
+KOL-SAN-1230,Kolhapur,Sangli,Kolhapur CBS,12:30,14:30,Lalpari (Ordinary),90,35
+KOL-SAN-1530,Kolhapur,Sangli,Kolhapur CBS,15:30,17:30,Lalpari (Ordinary),90,34
+KOL-SAN-1600,Kolhapur,Sangli,Kolhapur CBS,16:00,18:00,e-Shivai (Electric AC),130,5
+KOL-SAN-1700,Kolhapur,Sangli,Kolhapur CBS,17:00,19:00,Shivshahi (AC),130,15
+KOL-SAN-1730,Kolhapur,Sangli,Kolhapur CBS,17:30,19:30,Lalpari (Ordinary),90,31
+KOL-SAN-1830,Kolhapur,Sangli,Kolhapur CBS,18:30,20:30,Lalpari (Ordinary),90,25
+KOL-SAN-1930,Kolhapur,Sangli,Kolhapur CBS,19:30,21:30,Shivshahi (AC),130,10
+KOL-SAN-2000,Kolhapur,Sangli,Kolhapur CBS,20:00,22:00,Lalpari (Ordinary),90,24
+KOL-SAN-2130,Kolhapur,Sangli,Kolhapur CBS,21:30,23:30,Lalpari (Ordinary),90,29
+KOL-SAN-2200,Kolhapur,Sangli,Kolhapur CBS,22:00,00:00,Lalpari (Ordinary),90,35
+SAT-MAH-0530,Satara,Mahabaleshwar,Satara Bus Stand,05:30,07:42,Shivshahi (AC),145,4
+SAT-MAH-0600,Satara,Mahabaleshwar,Satara Bus Stand,06:00,08:12,Lalpari (Ordinary),95,15
+SAT-MAH-0630,Satara,Mahabaleshwar,Satara Bus Stand,06:30,08:42,Lalpari (Ordinary),95,36
+SAT-MAH-0730,Satara,Mahabaleshwar,Satara Bus Stand,07:30,09:42,Lalpari (Ordinary),95,38
+SAT-MAH-0930,Satara,Mahabaleshwar,Satara Bus Stand,09:30,11:42,Lalpari (Ordinary),95,5
+SAT-MAH-1000,Satara,Mahabaleshwar,Satara Bus Stand,10:00,12:12,Lalpari (Ordinary),95,37
+SAT-MAH-1100,Satara,Mahabaleshwar,Satara Bus Stand,11:00,13:12,Lalpari (Ordinary),95,20
+SAT-MAH-1130,Satara,Mahabaleshwar,Satara Bus Stand,11:30,13:42,Shivshahi (AC),145,13
+SAT-MAH-1230,Satara,Mahabaleshwar,Satara Bus Stand,12:30,14:42,e-Shivai (Electric AC),145,20
+SAT-MAH-1300,Satara,Mahabaleshwar,Satara Bus Stand,13:00,15:12,Lalpari (Ordinary),95,25
+SAT-MAH-1330,Satara,Mahabaleshwar,Satara Bus Stand,13:30,15:42,Lalpari (Ordinary),95,19
+SAT-MAH-1400,Satara,Mahabaleshwar,Satara Bus Stand,14:00,16:12,Lalpari (Ordinary),95,4
+SAT-MAH-1430,Satara,Mahabaleshwar,Satara Bus Stand,14:30,16:42,Lalpari (Ordinary),95,36
+SAT-MAH-1500,Satara,Mahabaleshwar,Satara Bus Stand,15:00,17:12,Shivshahi (AC),145,4
+SAT-MAH-1630,Satara,Mahabaleshwar,Satara Bus Stand,16:30,18:42,Lalpari (Ordinary),95,32
+SAT-MAH-1700,Satara,Mahabaleshwar,Satara Bus Stand,17:00,19:12,Lalpari (Ordinary),95,22
+SAT-MAH-1800,Satara,Mahabaleshwar,Satara Bus Stand,18:00,20:12,Shivshahi (AC),145,15
+SAT-MAH-1830,Satara,Mahabaleshwar,Satara Bus Stand,18:30,20:42,Lalpari (Ordinary),95,10
+SAT-MAH-1930,Satara,Mahabaleshwar,Satara Bus Stand,19:30,21:42,Lalpari (Ordinary),95,34
+SAT-MAH-2000,Satara,Mahabaleshwar,Satara Bus Stand,20:00,22:12,e-Shivai (Electric AC),145,33
+SAT-MAH-2130,Satara,Mahabaleshwar,Satara Bus Stand,21:30,23:42,Lalpari (Ordinary),95,35
+THA-PUN-0530,Thane,Pune,Thane Khopat,05:30,08:50,Shivneri (Premium AC),540,9
+THA-PUN-0615,Thane,Pune,Thane Khopat,06:15,09:35,Shivshahi (AC),400,18
+THA-PUN-0700,Thane,Pune,Thane Khopat,07:00,10:20,Shivneri (Premium AC),540,13
+THA-PUN-0945,Thane,Pune,Thane Khopat,09:45,13:05,Shivshahi (AC),400,13
+THA-PUN-1330,Thane,Pune,Thane Khopat,13:30,16:50,Shivshahi (AC),400,32
+THA-PUN-2230,Thane,Pune,Thane Khopat,22:30,01:50,e-Shivai (Electric AC),400,16
+THA-BOR-0500,Thane,Borivali,Thane Khopat,05:00,06:00,e-Shivai (Electric AC),65,35
+THA-BOR-0600,Thane,Borivali,Thane Khopat,06:00,07:00,Lalpari (Ordinary),45,4
+THA-BOR-0700,Thane,Borivali,Thane Khopat,07:00,08:00,Shivshahi (AC),65,9
+THA-BOR-0730,Thane,Borivali,Thane Khopat,07:30,08:30,Lalpari (Ordinary),45,23
+THA-BOR-0900,Thane,Borivali,Thane Khopat,09:00,10:00,Lalpari (Ordinary),45,9
+THA-BOR-1000,Thane,Borivali,Thane Khopat,10:00,11:00,Lalpari (Ordinary),45,2
+THA-BOR-1200,Thane,Borivali,Thane Khopat,12:00,13:00,Lalpari (Ordinary),45,2
+THA-BOR-1330,Thane,Borivali,Thane Khopat,13:30,14:30,Shivshahi (AC),65,13
+THA-BOR-1500,Thane,Borivali,Thane Khopat,15:00,16:00,e-Shivai (Electric AC),65,6
+THA-BOR-1630,Thane,Borivali,Thane Khopat,16:30,17:30,Lalpari (Ordinary),45,35
+THA-BOR-2130,Thane,Borivali,Thane Khopat,21:30,22:30,Shivshahi (AC),65,26
+THA-BOR-2230,Thane,Borivali,Thane Khopat,22:30,23:30,Shivshahi (AC),65,9
+BOR-THA-0530,Borivali,Thane,Borivali (Nancy Colony),05:30,06:30,Lalpari (Ordinary),45,2
+BOR-THA-0630,Borivali,Thane,Borivali (Nancy Colony),06:30,07:30,Shivshahi (AC),65,14
+BOR-THA-0730,Borivali,Thane,Borivali (Nancy Colony),07:30,08:30,Lalpari (Ordinary),45,29
+BOR-THA-0830,Borivali,Thane,Borivali (Nancy Colony),08:30,09:30,Lalpari (Ordinary),45,14
+BOR-THA-0900,Borivali,Thane,Borivali (Nancy Colony),09:00,10:00,Lalpari (Ordinary),45,12
+BOR-THA-1000,Borivali,Thane,Borivali (Nancy Colony),10:00,11:00,Lalpari (Ordinary),45,17
+BOR-THA-1030,Borivali,Thane,Borivali (Nancy Colony),10:30,11:30,Shivshahi (AC),65,17
+BOR-THA-1130,Borivali,Thane,Borivali (Nancy Colony),11:30,12:30,Lalpari (Ordinary),45,32
+BOR-THA-1530,Borivali,Thane,Borivali (Nancy Colony),15:30,16:30,Lalpari (Ordinary),45,34
+BOR-THA-1630,Borivali,Thane,Borivali (Nancy Colony),16:30,17:30,Lalpari (Ordinary),45,1
+BOR-THA-2200,Borivali,Thane,Borivali (Nancy Colony),22:00,23:00,Lalpari (Ordinary),45,16
+BOR-THA-2230,Borivali,Thane,Borivali (Nancy Colony),22:30,23:30,Lalpari (Ordinary),45,16
+MUM-PAN-0530,Mumbai,Panvel,Dadar (Asiad),05:30,07:18,Lalpari (Ordinary),80,33
+MUM-PAN-0630,Mumbai,Panvel,Dadar (Asiad),06:30,08:18,Shivshahi (AC),120,34
+MUM-PAN-0800,Mumbai,Panvel,Dadar (Asiad),08:00,09:48,e-Shivai (Electric AC),120,12
+MUM-PAN-0900,Mumbai,Panvel,Dadar (Asiad),09:00,10:48,Lalpari (Ordinary),80,4
+MUM-PAN-1100,Mumbai,Panvel,Dadar (Asiad),11:00,12:48,Shivshahi (AC),120,21
+MUM-PAN-1300,Mumbai,Panvel,Dadar (Asiad),13:00,14:48,e-Shivai (Electric AC),120,7
+MUM-PAN-1400,Mumbai,Panvel,Dadar (Asiad),14:00,15:48,e-Shivai (Electric AC),120,19
+MUM-PAN-1430,Mumbai,Panvel,Dadar (Asiad),14:30,16:18,Lalpari (Ordinary),80,26
+MUM-PAN-1500,Mumbai,Panvel,Dadar (Asiad),15:00,16:48,Lalpari (Ordinary),80,18
+MUM-PAN-1600,Mumbai,Panvel,Dadar (Asiad),16:00,17:48,Lalpari (Ordinary),80,12
+MUM-PAN-1830,Mumbai,Panvel,Dadar (Asiad),18:30,20:18,Lalpari (Ordinary),80,24
+MUM-PAN-2130,Mumbai,Panvel,Dadar (Asiad),21:30,23:18,e-Shivai (Electric AC),120,11
+MUM-PAN-2200,Mumbai,Panvel,Dadar (Asiad),22:00,23:48,e-Shivai (Electric AC),120,19
+MUM-PAN-2230,Mumbai,Panvel,Dadar (Asiad),22:30,00:18,Lalpari (Ordinary),80,0
+PAN-MUM-0600,Panvel,Mumbai,Panvel Bus Stand,06:00,07:48,Lalpari (Ordinary),80,15
+PAN-MUM-0730,Panvel,Mumbai,Panvel Bus Stand,07:30,09:18,e-Shivai (Electric AC),120,14
+PAN-MUM-0800,Panvel,Mumbai,Panvel Bus Stand,08:00,09:48,e-Shivai (Electric AC),120,9
+PAN-MUM-0930,Panvel,Mumbai,Panvel Bus Stand,09:30,11:18,Lalpari (Ordinary),80,15
+PAN-MUM-1000,Panvel,Mumbai,Panvel Bus Stand,10:00,11:48,Shivshahi (AC),120,4
+PAN-MUM-1130,Panvel,Mumbai,Panvel Bus Stand,11:30,13:18,Lalpari (Ordinary),80,36
+PAN-MUM-1200,Panvel,Mumbai,Panvel Bus Stand,12:00,13:48,Lalpari (Ordinary),80,24
+PAN-MUM-1230,Panvel,Mumbai,Panvel Bus Stand,12:30,14:18,Lalpari (Ordinary),80,15
+PAN-MUM-1300,Panvel,Mumbai,Panvel Bus Stand,13:00,14:48,Lalpari (Ordinary),80,0
+PAN-MUM-1400,Panvel,Mumbai,Panvel Bus Stand,14:00,15:48,Shivshahi (AC),120,6
+PAN-MUM-1500,Panvel,Mumbai,Panvel Bus Stand,15:00,16:48,e-Shivai (Electric AC),120,14
+PAN-MUM-1530,Panvel,Mumbai,Panvel Bus Stand,15:30,17:18,Lalpari (Ordinary),80,33
+PAN-MUM-1630,Panvel,Mumbai,Panvel Bus Stand,16:30,18:18,Lalpari (Ordinary),80,35
+PAN-MUM-1800,Panvel,Mumbai,Panvel Bus Stand,18:00,19:48,Lalpari (Ordinary),80,7
+PAN-MUM-1830,Panvel,Mumbai,Panvel Bus Stand,18:30,20:18,Lalpari (Ordinary),80,29
+PAN-MUM-1900,Panvel,Mumbai,Panvel Bus Stand,19:00,20:48,e-Shivai (Electric AC),120,35
+PAN-MUM-1930,Panvel,Mumbai,Panvel Bus Stand,19:30,21:18,Lalpari (Ordinary),80,28
+PAN-MUM-2000,Panvel,Mumbai,Panvel Bus Stand,20:00,21:48,e-Shivai (Electric AC),120,32
+MUM-THA-0600,Mumbai,Thane,Mumbai Central,06:00,07:12,Lalpari (Ordinary),50,21
+MUM-THA-0830,Mumbai,Thane,Mumbai Central,08:30,09:42,Lalpari (Ordinary),50,34
+MUM-THA-0900,Mumbai,Thane,Mumbai Central,09:00,10:12,Lalpari (Ordinary),50,9
+MUM-THA-0930,Mumbai,Thane,Mumbai Central,09:30,10:42,Lalpari (Ordinary),50,9
+MUM-THA-1000,Mumbai,Thane,Mumbai Central,10:00,11:12,e-Shivai (Electric AC),80,4
+MUM-THA-1200,Mumbai,Thane,Mumbai Central,12:00,13:12,Lalpari (Ordinary),50,21
+MUM-THA-1230,Mumbai,Thane,Mumbai Central,12:30,13:42,Lalpari (Ordinary),50,26
+MUM-THA-1300,Mumbai,Thane,Mumbai Central,13:00,14:12,Lalpari (Ordinary),50,26
+MUM-THA-1500,Mumbai,Thane,Mumbai Central,15:00,16:12,Lalpari (Ordinary),50,37
+MUM-THA-1700,Mumbai,Thane,Mumbai Central,17:00,18:12,Shivshahi (AC),80,1
+MUM-THA-1730,Mumbai,Thane,Mumbai Central,17:30,18:42,Shivshahi (AC),80,36
+MUM-THA-1800,Mumbai,Thane,Mumbai Central,18:00,19:12,Lalpari (Ordinary),50,0
+MUM-THA-1830,Mumbai,Thane,Mumbai Central,18:30,19:42,Shivshahi (AC),80,19
+MUM-THA-1900,Mumbai,Thane,Mumbai Central,19:00,20:12,e-Shivai (Electric AC),80,26
+MUM-THA-1930,Mumbai,Thane,Mumbai Central,19:30,20:42,Lalpari (Ordinary),50,34
+MUM-THA-2000,Mumbai,Thane,Mumbai Central,20:00,21:12,e-Shivai (Electric AC),80,14
+MUM-THA-2030,Mumbai,Thane,Mumbai Central,20:30,21:42,Lalpari (Ordinary),50,17
+MUM-THA-2100,Mumbai,Thane,Mumbai Central,21:00,22:12,Lalpari (Ordinary),50,1
+MUM-THA-2200,Mumbai,Thane,Mumbai Central,22:00,23:12,Lalpari (Ordinary),50,25
+MUM-THA-2230,Mumbai,Thane,Mumbai Central,22:30,23:42,e-Shivai (Electric AC),80,29
+THA-MUM-0530,Thane,Mumbai,Thane Khopat,05:30,06:42,Lalpari (Ordinary),50,21
+THA-MUM-0700,Thane,Mumbai,Thane Khopat,07:00,08:12,e-Shivai (Electric AC),80,24
+THA-MUM-0730,Thane,Mumbai,Thane Khopat,07:30,08:42,Lalpari (Ordinary),50,26
+THA-MUM-0800,Thane,Mumbai,Thane Khopat,08:00,09:12,Lalpari (Ordinary),50,5
+THA-MUM-0900,Thane,Mumbai,Thane Khopat,09:00,10:12,Lalpari (Ordinary),50,34
+THA-MUM-1000,Thane,Mumbai,Thane Khopat,10:00,11:12,Lalpari (Ordinary),50,22
+THA-MUM-1100,Thane,Mumbai,Thane Khopat,11:00,12:12,Lalpari (Ordinary),50,4
+THA-MUM-1130,Thane,Mumbai,Thane Khopat,11:30,12:42,e-Shivai (Electric AC),80,2
+THA-MUM-1200,Thane,Mumbai,Thane Khopat,12:00,13:12,e-Shivai (Electric AC),80,15
+THA-MUM-1500,Thane,Mumbai,Thane Khopat,15:00,16:12,Lalpari (Ordinary),50,1
+THA-MUM-1730,Thane,Mumbai,Thane Khopat,17:30,18:42,e-Shivai (Electric AC),80,15
+THA-MUM-1830,Thane,Mumbai,Thane Khopat,18:30,19:42,Lalpari (Ordinary),50,7
+THA-MUM-2030,Thane,Mumbai,Thane Khopat,20:30,21:42,Lalpari (Ordinary),50,13
+THA-MUM-2100,Thane,Mumbai,Thane Khopat,21:00,22:12,Lalpari (Ordinary),50,16
+THA-MUM-2200,Thane,Mumbai,Thane Khopat,22:00,23:12,e-Shivai (Electric AC),80,10
+THA-MUM-2230,Thane,Mumbai,Thane Khopat,22:30,23:42,e-Shivai (Electric AC),80,7
+THA-PAN-0530,Thane,Panvel,Thane Khopat,05:30,06:46,e-Shivai (Electric AC),85,36
+THA-PAN-0600,Thane,Panvel,Thane Khopat,06:00,07:16,e-Shivai (Electric AC),85,22
+THA-PAN-0630,Thane,Panvel,Thane Khopat,06:30,07:46,Lalpari (Ordinary),55,23
+THA-PAN-0800,Thane,Panvel,Thane Khopat,08:00,09:16,Lalpari (Ordinary),55,21
+THA-PAN-0830,Thane,Panvel,Thane Khopat,08:30,09:46,Lalpari (Ordinary),55,26
+THA-PAN-0930,Thane,Panvel,Thane Khopat,09:30,10:46,e-Shivai (Electric AC),85,6
+THA-PAN-1100,Thane,Panvel,Thane Khopat,11:00,12:16,Lalpari (Ordinary),55,23
+THA-PAN-1400,Thane,Panvel,Thane Khopat,14:00,15:16,e-Shivai (Electric AC),85,29
+THA-PAN-1430,Thane,Panvel,Thane Khopat,14:30,15:46,e-Shivai (Electric AC),85,27
+THA-PAN-1500,Thane,Panvel,Thane Khopat,15:00,16:16,Lalpari (Ordinary),55,33
+THA-PAN-1600,Thane,Panvel,Thane Khopat,16:00,17:16,Shivshahi (AC),85,17
+THA-PAN-1700,Thane,Panvel,Thane Khopat,17:00,18:16,e-Shivai (Electric AC),85,34
+THA-PAN-1930,Thane,Panvel,Thane Khopat,19:30,20:46,e-Shivai (Electric AC),85,29
+THA-PAN-2100,Thane,Panvel,Thane Khopat,21:00,22:16,Lalpari (Ordinary),55,37
+THA-PAN-2200,Thane,Panvel,Thane Khopat,22:00,23:16,Lalpari (Ordinary),55,15
+THA-PAN-2230,Thane,Panvel,Thane Khopat,22:30,23:46,e-Shivai (Electric AC),85,5
+PAN-THA-0500,Panvel,Thane,Panvel Bus Stand,05:00,06:16,Lalpari (Ordinary),55,33
+PAN-THA-0730,Panvel,Thane,Panvel Bus Stand,07:30,08:46,Shivshahi (AC),85,5
+PAN-THA-0800,Panvel,Thane,Panvel Bus Stand,08:00,09:16,Lalpari (Ordinary),55,26
+PAN-THA-0900,Panvel,Thane,Panvel Bus Stand,09:00,10:16,Lalpari (Ordinary),55,15
+PAN-THA-1000,Panvel,Thane,Panvel Bus Stand,10:00,11:16,e-Shivai (Electric AC),85,31
+PAN-THA-1030,Panvel,Thane,Panvel Bus Stand,10:30,11:46,Lalpari (Ordinary),55,1
+PAN-THA-1230,Panvel,Thane,Panvel Bus Stand,12:30,13:46,Lalpari (Ordinary),55,14
+PAN-THA-1430,Panvel,Thane,Panvel Bus Stand,14:30,15:46,Lalpari (Ordinary),55,15
+PAN-THA-1500,Panvel,Thane,Panvel Bus Stand,15:00,16:16,Lalpari (Ordinary),55,37
+PAN-THA-1530,Panvel,Thane,Panvel Bus Stand,15:30,16:46,Lalpari (Ordinary),55,35
+PAN-THA-1600,Panvel,Thane,Panvel Bus Stand,16:00,17:16,Lalpari (Ordinary),55,27
+PAN-THA-1700,Panvel,Thane,Panvel Bus Stand,17:00,18:16,Shivshahi (AC),85,35
+PAN-THA-1830,Panvel,Thane,Panvel Bus Stand,18:30,19:46,Lalpari (Ordinary),55,29
+PAN-THA-1900,Panvel,Thane,Panvel Bus Stand,19:00,20:16,Lalpari (Ordinary),55,16
+PAN-THA-1930,Panvel,Thane,Panvel Bus Stand,19:30,20:46,Lalpari (Ordinary),55,12
+PAN-THA-2130,Panvel,Thane,Panvel Bus Stand,21:30,22:46,Lalpari (Ordinary),55,34
+PAN-THA-2200,Panvel,Thane,Panvel Bus Stand,22:00,23:16,Shivshahi (AC),85,11
+PAN-THA-2230,Panvel,Thane,Panvel Bus Stand,22:30,23:46,Lalpari (Ordinary),55,30
+THA-BHI-0500,Thane,Bhiwandi,Thane Khopat,05:00,05:38,e-Shivai (Electric AC),40,8
+THA-BHI-0530,Thane,Bhiwandi,Thane Khopat,05:30,06:08,e-Shivai (Electric AC),40,31
+THA-BHI-0700,Thane,Bhiwandi,Thane Khopat,07:00,07:38,Lalpari (Ordinary),30,0
+THA-BHI-0730,Thane,Bhiwandi,Thane Khopat,07:30,08:08,Lalpari (Ordinary),30,30
+THA-BHI-0800,Thane,Bhiwandi,Thane Khopat,08:00,08:38,Lalpari (Ordinary),30,21
+THA-BHI-0830,Thane,Bhiwandi,Thane Khopat,08:30,09:08,Lalpari (Ordinary),30,3
+THA-BHI-0900,Thane,Bhiwandi,Thane Khopat,09:00,09:38,Lalpari (Ordinary),30,30
+THA-BHI-0930,Thane,Bhiwandi,Thane Khopat,09:30,10:08,Lalpari (Ordinary),30,4
+THA-BHI-1030,Thane,Bhiwandi,Thane Khopat,10:30,11:08,Lalpari (Ordinary),30,4
+THA-BHI-1100,Thane,Bhiwandi,Thane Khopat,11:00,11:38,Lalpari (Ordinary),30,3
+THA-BHI-1330,Thane,Bhiwandi,Thane Khopat,13:30,14:08,Lalpari (Ordinary),30,36
+THA-BHI-1400,Thane,Bhiwandi,Thane Khopat,14:00,14:38,Shivshahi (AC),40,5
+THA-BHI-1530,Thane,Bhiwandi,Thane Khopat,15:30,16:08,Shivshahi (AC),40,7
+THA-BHI-1600,Thane,Bhiwandi,Thane Khopat,16:00,16:38,Lalpari (Ordinary),30,26
+THA-BHI-1700,Thane,Bhiwandi,Thane Khopat,17:00,17:38,e-Shivai (Electric AC),40,14
+THA-BHI-1830,Thane,Bhiwandi,Thane Khopat,18:30,19:08,e-Shivai (Electric AC),40,24
+THA-BHI-2130,Thane,Bhiwandi,Thane Khopat,21:30,22:08,Lalpari (Ordinary),30,28
+THA-BHI-2200,Thane,Bhiwandi,Thane Khopat,22:00,22:38,Lalpari (Ordinary),30,37
+BHI-THA-0500,Bhiwandi,Thane,Bhiwandi Bus Stand,05:00,05:38,Lalpari (Ordinary),30,18
+BHI-THA-0530,Bhiwandi,Thane,Bhiwandi Bus Stand,05:30,06:08,e-Shivai (Electric AC),40,29
+BHI-THA-0600,Bhiwandi,Thane,Bhiwandi Bus Stand,06:00,06:38,Lalpari (Ordinary),30,14
+BHI-THA-0630,Bhiwandi,Thane,Bhiwandi Bus Stand,06:30,07:08,Shivshahi (AC),40,37
+BHI-THA-0730,Bhiwandi,Thane,Bhiwandi Bus Stand,07:30,08:08,e-Shivai (Electric AC),40,12
+BHI-THA-0800,Bhiwandi,Thane,Bhiwandi Bus Stand,08:00,08:38,Lalpari (Ordinary),30,34
+BHI-THA-0830,Bhiwandi,Thane,Bhiwandi Bus Stand,08:30,09:08,Lalpari (Ordinary),30,9
+BHI-THA-0900,Bhiwandi,Thane,Bhiwandi Bus Stand,09:00,09:38,Shivshahi (AC),40,9
+BHI-THA-0930,Bhiwandi,Thane,Bhiwandi Bus Stand,09:30,10:08,Lalpari (Ordinary),30,10
+BHI-THA-1130,Bhiwandi,Thane,Bhiwandi Bus Stand,11:30,12:08,e-Shivai (Electric AC),40,38
+BHI-THA-1200,Bhiwandi,Thane,Bhiwandi Bus Stand,12:00,12:38,e-Shivai (Electric AC),40,36
+BHI-THA-1230,Bhiwandi,Thane,Bhiwandi Bus Stand,12:30,13:08,Shivshahi (AC),40,28
+BHI-THA-1330,Bhiwandi,Thane,Bhiwandi Bus Stand,13:30,14:08,Lalpari (Ordinary),30,19
+BHI-THA-1430,Bhiwandi,Thane,Bhiwandi Bus Stand,14:30,15:08,e-Shivai (Electric AC),40,17
+BHI-THA-1530,Bhiwandi,Thane,Bhiwandi Bus Stand,15:30,16:08,Lalpari (Ordinary),30,31
+BHI-THA-1730,Bhiwandi,Thane,Bhiwandi Bus Stand,17:30,18:08,Lalpari (Ordinary),30,38
+BHI-THA-1830,Bhiwandi,Thane,Bhiwandi Bus Stand,18:30,19:08,Lalpari (Ordinary),30,27
+BHI-THA-1900,Bhiwandi,Thane,Bhiwandi Bus Stand,19:00,19:38,e-Shivai (Electric AC),40,38
+BHI-THA-2030,Bhiwandi,Thane,Bhiwandi Bus Stand,20:30,21:08,Lalpari (Ordinary),30,5
+BHI-THA-2100,Bhiwandi,Thane,Bhiwandi Bus Stand,21:00,21:38,Lalpari (Ordinary),30,36
+KAL-MUR-0600,Kalyan,Murbad,Kalyan Bus Stand,06:00,07:12,Lalpari (Ordinary),50,21
+KAL-MUR-0730,Kalyan,Murbad,Kalyan Bus Stand,07:30,08:42,Lalpari (Ordinary),50,6
+KAL-MUR-0900,Kalyan,Murbad,Kalyan Bus Stand,09:00,10:12,Shivshahi (AC),80,21
+KAL-MUR-1030,Kalyan,Murbad,Kalyan Bus Stand,10:30,11:42,Lalpari (Ordinary),50,31
+KAL-MUR-1130,Kalyan,Murbad,Kalyan Bus Stand,11:30,12:42,Lalpari (Ordinary),50,25
+KAL-MUR-1230,Kalyan,Murbad,Kalyan Bus Stand,12:30,13:42,e-Shivai (Electric AC),80,35
+KAL-MUR-1330,Kalyan,Murbad,Kalyan Bus Stand,13:30,14:42,Lalpari (Ordinary),50,5
+KAL-MUR-1400,Kalyan,Murbad,Kalyan Bus Stand,14:00,15:12,Lalpari (Ordinary),50,20
+KAL-MUR-1500,Kalyan,Murbad,Kalyan Bus Stand,15:00,16:12,Lalpari (Ordinary),50,25
+KAL-MUR-1700,Kalyan,Murbad,Kalyan Bus Stand,17:00,18:12,Shivshahi (AC),80,0
+KAL-MUR-1900,Kalyan,Murbad,Kalyan Bus Stand,19:00,20:12,e-Shivai (Electric AC),80,34
+KAL-MUR-1930,Kalyan,Murbad,Kalyan Bus Stand,19:30,20:42,Lalpari (Ordinary),50,3
+KAL-MUR-2000,Kalyan,Murbad,Kalyan Bus Stand,20:00,21:12,Lalpari (Ordinary),50,23
+KAL-MUR-2200,Kalyan,Murbad,Kalyan Bus Stand,22:00,23:12,e-Shivai (Electric AC),80,31
+MUR-KAL-0500,Murbad,Kalyan,Murbad Bus Stand,05:00,06:12,Lalpari (Ordinary),50,7
+MUR-KAL-0600,Murbad,Kalyan,Murbad Bus Stand,06:00,07:12,Lalpari (Ordinary),50,7
+MUR-KAL-0630,Murbad,Kalyan,Murbad Bus Stand,06:30,07:42,e-Shivai (Electric AC),80,9
+MUR-KAL-0730,Murbad,Kalyan,Murbad Bus Stand,07:30,08:42,Lalpari (Ordinary),50,18
+MUR-KAL-0830,Murbad,Kalyan,Murbad Bus Stand,08:30,09:42,Lalpari (Ordinary),50,17
+MUR-KAL-0900,Murbad,Kalyan,Murbad Bus Stand,09:00,10:12,Lalpari (Ordinary),50,30
+MUR-KAL-0930,Murbad,Kalyan,Murbad Bus Stand,09:30,10:42,Shivshahi (AC),80,15
+MUR-KAL-1130,Murbad,Kalyan,Murbad Bus Stand,11:30,12:42,Lalpari (Ordinary),50,9
+MUR-KAL-1200,Murbad,Kalyan,Murbad Bus Stand,12:00,13:12,Lalpari (Ordinary),50,38
+MUR-KAL-1230,Murbad,Kalyan,Murbad Bus Stand,12:30,13:42,Lalpari (Ordinary),50,8
+MUR-KAL-1330,Murbad,Kalyan,Murbad Bus Stand,13:30,14:42,Shivshahi (AC),80,17
+MUR-KAL-1400,Murbad,Kalyan,Murbad Bus Stand,14:00,15:12,e-Shivai (Electric AC),80,26
+MUR-KAL-1430,Murbad,Kalyan,Murbad Bus Stand,14:30,15:42,Lalpari (Ordinary),50,32
+MUR-KAL-1500,Murbad,Kalyan,Murbad Bus Stand,15:00,16:12,Lalpari (Ordinary),50,0
+MUR-KAL-1600,Murbad,Kalyan,Murbad Bus Stand,16:00,17:12,Lalpari (Ordinary),50,19
+MUR-KAL-1630,Murbad,Kalyan,Murbad Bus Stand,16:30,17:42,e-Shivai (Electric AC),80,37
+MUR-KAL-1730,Murbad,Kalyan,Murbad Bus Stand,17:30,18:42,Shivshahi (AC),80,31
+MUR-KAL-1900,Murbad,Kalyan,Murbad Bus Stand,19:00,20:12,Shivshahi (AC),80,28
+MUR-KAL-2130,Murbad,Kalyan,Murbad Bus Stand,21:30,22:42,Lalpari (Ordinary),50,22
+MUR-KAL-2200,Murbad,Kalyan,Murbad Bus Stand,22:00,23:12,Lalpari (Ordinary),50,34
+MUR-KAL-2230,Murbad,Kalyan,Murbad Bus Stand,22:30,23:42,Lalpari (Ordinary),50,20
+NAV-THA-0530,Navi Mumbai,Thane,Vashi Bus Station,05:30,06:18,Lalpari (Ordinary),35,37
+NAV-THA-0600,Navi Mumbai,Thane,Vashi Bus Station,06:00,06:48,Lalpari (Ordinary),35,6
+NAV-THA-0700,Navi Mumbai,Thane,Vashi Bus Station,07:00,07:48,Shivshahi (AC),55,28
+NAV-THA-1000,Navi Mumbai,Thane,Vashi Bus Station,10:00,10:48,Lalpari (Ordinary),35,29
+NAV-THA-1100,Navi Mumbai,Thane,Vashi Bus Station,11:00,11:48,Lalpari (Ordinary),35,9
+NAV-THA-1200,Navi Mumbai,Thane,Vashi Bus Station,12:00,12:48,Lalpari (Ordinary),35,9
+NAV-THA-1230,Navi Mumbai,Thane,Vashi Bus Station,12:30,13:18,Lalpari (Ordinary),35,16
+NAV-THA-1500,Navi Mumbai,Thane,Vashi Bus Station,15:00,15:48,Lalpari (Ordinary),35,25
+NAV-THA-1530,Navi Mumbai,Thane,Vashi Bus Station,15:30,16:18,e-Shivai (Electric AC),55,21
+NAV-THA-1600,Navi Mumbai,Thane,Vashi Bus Station,16:00,16:48,Shivshahi (AC),55,34
+NAV-THA-1630,Navi Mumbai,Thane,Vashi Bus Station,16:30,17:18,Lalpari (Ordinary),35,20
+NAV-THA-1700,Navi Mumbai,Thane,Vashi Bus Station,17:00,17:48,e-Shivai (Electric AC),55,31
+NAV-THA-1730,Navi Mumbai,Thane,Vashi Bus Station,17:30,18:18,Shivshahi (AC),55,2
+NAV-THA-1800,Navi Mumbai,Thane,Vashi Bus Station,18:00,18:48,e-Shivai (Electric AC),55,15
+NAV-THA-1900,Navi Mumbai,Thane,Vashi Bus Station,19:00,19:48,e-Shivai (Electric AC),55,18
+NAV-THA-2100,Navi Mumbai,Thane,Vashi Bus Station,21:00,21:48,Shivshahi (AC),55,5
+NAV-THA-2230,Navi Mumbai,Thane,Vashi Bus Station,22:30,23:18,Lalpari (Ordinary),35,6
+THA-NAV-0530,Thane,Navi Mumbai,Thane Khopat,05:30,06:18,Lalpari (Ordinary),35,11
+THA-NAV-0600,Thane,Navi Mumbai,Thane Khopat,06:00,06:48,Lalpari (Ordinary),35,5
+THA-NAV-0700,Thane,Navi Mumbai,Thane Khopat,07:00,07:48,e-Shivai (Electric AC),55,24
+THA-NAV-0830,Thane,Navi Mumbai,Thane Khopat,08:30,09:18,e-Shivai (Electric AC),55,15
+THA-NAV-0930,Thane,Navi Mumbai,Thane Khopat,09:30,10:18,Lalpari (Ordinary),35,37
+THA-NAV-1000,Thane,Navi Mumbai,Thane Khopat,10:00,10:48,Lalpari (Ordinary),35,29
+THA-NAV-1030,Thane,Navi Mumbai,Thane Khopat,10:30,11:18,e-Shivai (Electric AC),55,29
+THA-NAV-1130,Thane,Navi Mumbai,Thane Khopat,11:30,12:18,Lalpari (Ordinary),35,0
+THA-NAV-1300,Thane,Navi Mumbai,Thane Khopat,13:00,13:48,Shivshahi (AC),55,29
+THA-NAV-1430,Thane,Navi Mumbai,Thane Khopat,14:30,15:18,Shivshahi (AC),55,34
+THA-NAV-1730,Thane,Navi Mumbai,Thane Khopat,17:30,18:18,Lalpari (Ordinary),35,28
+THA-NAV-1800,Thane,Navi Mumbai,Thane Khopat,18:00,18:48,Shivshahi (AC),55,37
+THA-NAV-1900,Thane,Navi Mumbai,Thane Khopat,19:00,19:48,Lalpari (Ordinary),35,27
+THA-NAV-2100,Thane,Navi Mumbai,Thane Khopat,21:00,21:48,e-Shivai (Electric AC),55,29
+THA-NAV-2200,Thane,Navi Mumbai,Thane Khopat,22:00,22:48,e-Shivai (Electric AC),55,12
+BOR-VIR-0500,Borivali,Virar,Borivali (Nancy Colony),05:00,06:16,e-Shivai (Electric AC),85,22
+BOR-VIR-0530,Borivali,Virar,Borivali (Nancy Colony),05:30,06:46,Lalpari (Ordinary),55,12
+BOR-VIR-0800,Borivali,Virar,Borivali (Nancy Colony),08:00,09:16,e-Shivai (Electric AC),85,8
+BOR-VIR-0830,Borivali,Virar,Borivali (Nancy Colony),08:30,09:46,e-Shivai (Electric AC),85,2
+BOR-VIR-0900,Borivali,Virar,Borivali (Nancy Colony),09:00,10:16,Lalpari (Ordinary),55,28
+BOR-VIR-0930,Borivali,Virar,Borivali (Nancy Colony),09:30,10:46,Lalpari (Ordinary),55,23
+BOR-VIR-1100,Borivali,Virar,Borivali (Nancy Colony),11:00,12:16,e-Shivai (Electric AC),85,5
+BOR-VIR-1230,Borivali,Virar,Borivali (Nancy Colony),12:30,13:46,Shivshahi (AC),85,20
+BOR-VIR-1400,Borivali,Virar,Borivali (Nancy Colony),14:00,15:16,e-Shivai (Electric AC),85,11
+BOR-VIR-1430,Borivali,Virar,Borivali (Nancy Colony),14:30,15:46,Lalpari (Ordinary),55,34
+BOR-VIR-1530,Borivali,Virar,Borivali (Nancy Colony),15:30,16:46,Shivshahi (AC),85,23
+BOR-VIR-1600,Borivali,Virar,Borivali (Nancy Colony),16:00,17:16,Lalpari (Ordinary),55,17
+BOR-VIR-1700,Borivali,Virar,Borivali (Nancy Colony),17:00,18:16,e-Shivai (Electric AC),85,16
+BOR-VIR-1800,Borivali,Virar,Borivali (Nancy Colony),18:00,19:16,Shivshahi (AC),85,30
+BOR-VIR-1830,Borivali,Virar,Borivali (Nancy Colony),18:30,19:46,Shivshahi (AC),85,18
+BOR-VIR-1930,Borivali,Virar,Borivali (Nancy Colony),19:30,20:46,e-Shivai (Electric AC),85,21
+BOR-VIR-2000,Borivali,Virar,Borivali (Nancy Colony),20:00,21:16,e-Shivai (Electric AC),85,29
+BOR-VIR-2030,Borivali,Virar,Borivali (Nancy Colony),20:30,21:46,Shivshahi (AC),85,9
+BOR-VIR-2130,Borivali,Virar,Borivali (Nancy Colony),21:30,22:46,e-Shivai (Electric AC),85,14
+BOR-VIR-2230,Borivali,Virar,Borivali (Nancy Colony),22:30,23:46,Shivshahi (AC),85,25
+VIR-BOR-0500,Virar,Borivali,Virar Bus Stand,05:00,06:16,Shivshahi (AC),85,35
+VIR-BOR-0630,Virar,Borivali,Virar Bus Stand,06:30,07:46,Lalpari (Ordinary),55,14
+VIR-BOR-0730,Virar,Borivali,Virar Bus Stand,07:30,08:46,e-Shivai (Electric AC),85,29
+VIR-BOR-0830,Virar,Borivali,Virar Bus Stand,08:30,09:46,Shivshahi (AC),85,19
+VIR-BOR-0900,Virar,Borivali,Virar Bus Stand,09:00,10:16,e-Shivai (Electric AC),85,7
+VIR-BOR-0930,Virar,Borivali,Virar Bus Stand,09:30,10:46,Lalpari (Ordinary),55,2
+VIR-BOR-1030,Virar,Borivali,Virar Bus Stand,10:30,11:46,Lalpari (Ordinary),55,31
+VIR-BOR-1100,Virar,Borivali,Virar Bus Stand,11:00,12:16,Lalpari (Ordinary),55,15
+VIR-BOR-1200,Virar,Borivali,Virar Bus Stand,12:00,13:16,Shivshahi (AC),85,8
+VIR-BOR-1230,Virar,Borivali,Virar Bus Stand,12:30,13:46,Lalpari (Ordinary),55,23
+VIR-BOR-1300,Virar,Borivali,Virar Bus Stand,13:00,14:16,e-Shivai (Electric AC),85,34
+VIR-BOR-1330,Virar,Borivali,Virar Bus Stand,13:30,14:46,Lalpari (Ordinary),55,9
+VIR-BOR-1400,Virar,Borivali,Virar Bus Stand,14:00,15:16,Shivshahi (AC),85,6
+VIR-BOR-1500,Virar,Borivali,Virar Bus Stand,15:00,16:16,e-Shivai (Electric AC),85,26
+VIR-BOR-1530,Virar,Borivali,Virar Bus Stand,15:30,16:46,Shivshahi (AC),85,17
+VIR-BOR-1630,Virar,Borivali,Virar Bus Stand,16:30,17:46,Lalpari (Ordinary),55,23
+VIR-BOR-1730,Virar,Borivali,Virar Bus Stand,17:30,18:46,Lalpari (Ordinary),55,28
+VIR-BOR-1800,Virar,Borivali,Virar Bus Stand,18:00,19:16,Shivshahi (AC),85,23
+VIR-BOR-1830,Virar,Borivali,Virar Bus Stand,18:30,19:46,Lalpari (Ordinary),55,23
+VIR-BOR-1930,Virar,Borivali,Virar Bus Stand,19:30,20:46,Lalpari (Ordinary),55,22
+VIR-BOR-2100,Virar,Borivali,Virar Bus Stand,21:00,22:16,Lalpari (Ordinary),55,17
+VIR-BOR-2230,Virar,Borivali,Virar Bus Stand,22:30,23:46,Lalpari (Ordinary),55,7
+PAN-ALI-0500,Panvel,Alibag,Panvel Bus Stand,05:00,07:12,Shivshahi (AC),145,9
+PAN-ALI-0530,Panvel,Alibag,Panvel Bus Stand,05:30,07:42,Shivshahi (AC),145,34
+PAN-ALI-0600,Panvel,Alibag,Panvel Bus Stand,06:00,08:12,Lalpari (Ordinary),95,11
+PAN-ALI-0630,Panvel,Alibag,Panvel Bus Stand,06:30,08:42,Lalpari (Ordinary),95,1
+PAN-ALI-0700,Panvel,Alibag,Panvel Bus Stand,07:00,09:12,Lalpari (Ordinary),95,22
+PAN-ALI-0730,Panvel,Alibag,Panvel Bus Stand,07:30,09:42,e-Shivai (Electric AC),145,15
+PAN-ALI-0800,Panvel,Alibag,Panvel Bus Stand,08:00,10:12,Lalpari (Ordinary),95,1
+PAN-ALI-0830,Panvel,Alibag,Panvel Bus Stand,08:30,10:42,Lalpari (Ordinary),95,3
+PAN-ALI-0900,Panvel,Alibag,Panvel Bus Stand,09:00,11:12,Lalpari (Ordinary),95,26
+PAN-ALI-1000,Panvel,Alibag,Panvel Bus Stand,10:00,12:12,Lalpari (Ordinary),95,4
+PAN-ALI-1130,Panvel,Alibag,Panvel Bus Stand,11:30,13:42,Lalpari (Ordinary),95,23
+PAN-ALI-1330,Panvel,Alibag,Panvel Bus Stand,13:30,15:42,Lalpari (Ordinary),95,6
+PAN-ALI-1400,Panvel,Alibag,Panvel Bus Stand,14:00,16:12,Lalpari (Ordinary),95,14
+PAN-ALI-1530,Panvel,Alibag,Panvel Bus Stand,15:30,17:42,Shivshahi (AC),145,2
+PAN-ALI-1600,Panvel,Alibag,Panvel Bus Stand,16:00,18:12,e-Shivai (Electric AC),145,33
+PAN-ALI-1700,Panvel,Alibag,Panvel Bus Stand,17:00,19:12,Lalpari (Ordinary),95,1
+PAN-ALI-1730,Panvel,Alibag,Panvel Bus Stand,17:30,19:42,Lalpari (Ordinary),95,30
+PAN-ALI-1800,Panvel,Alibag,Panvel Bus Stand,18:00,20:12,e-Shivai (Electric AC),145,27
+PAN-ALI-1830,Panvel,Alibag,Panvel Bus Stand,18:30,20:42,e-Shivai (Electric AC),145,31
+MUM-ALI-0530,Mumbai,Alibag,Mumbai Central,05:30,07:36,Shivshahi (AC),250,37
+MUM-ALI-0615,Mumbai,Alibag,Mumbai Central,06:15,08:21,Shivshahi (AC),250,20
+MUM-ALI-0700,Mumbai,Alibag,Mumbai Central,07:00,09:06,e-Shivai (Electric AC),250,38
+MUM-ALI-1100,Mumbai,Alibag,Mumbai Central,11:00,13:06,Shivshahi (AC),250,18
+MUM-ALI-1500,Mumbai,Alibag,Mumbai Central,15:00,17:06,e-Shivai (Electric AC),250,32
+MUM-ALI-1900,Mumbai,Alibag,Mumbai Central,19:00,21:06,Shivshahi (AC),250,27
+MUM-ALI-2230,Mumbai,Alibag,Mumbai Central,22:30,00:36,Lalpari (Ordinary),165,7
+ALI-PAN-0600,Alibag,Panvel,Alibag Bus Stand,06:00,08:12,Lalpari (Ordinary),95,27
+ALI-PAN-0630,Alibag,Panvel,Alibag Bus Stand,06:30,08:42,Lalpari (Ordinary),95,23
+ALI-PAN-0700,Alibag,Panvel,Alibag Bus Stand,07:00,09:12,e-Shivai (Electric AC),145,35
+ALI-PAN-0900,Alibag,Panvel,Alibag Bus Stand,09:00,11:12,Lalpari (Ordinary),95,35
+ALI-PAN-1000,Alibag,Panvel,Alibag Bus Stand,10:00,12:12,Lalpari (Ordinary),95,7
+ALI-PAN-1030,Alibag,Panvel,Alibag Bus Stand,10:30,12:42,Lalpari (Ordinary),95,27
+ALI-PAN-1100,Alibag,Panvel,Alibag Bus Stand,11:00,13:12,Shivshahi (AC),145,3
+ALI-PAN-1130,Alibag,Panvel,Alibag Bus Stand,11:30,13:42,Shivshahi (AC),145,38
+ALI-PAN-1200,Alibag,Panvel,Alibag Bus Stand,12:00,14:12,Lalpari (Ordinary),95,6
+ALI-PAN-1230,Alibag,Panvel,Alibag Bus Stand,12:30,14:42,Lalpari (Ordinary),95,13
+ALI-PAN-1300,Alibag,Panvel,Alibag Bus Stand,13:00,15:12,Lalpari (Ordinary),95,30
+ALI-PAN-1600,Alibag,Panvel,Alibag Bus Stand,16:00,18:12,Lalpari (Ordinary),95,6
+ALI-PAN-1630,Alibag,Panvel,Alibag Bus Stand,16:30,18:42,Lalpari (Ordinary),95,35
+ALI-PAN-1730,Alibag,Panvel,Alibag Bus Stand,17:30,19:42,Lalpari (Ordinary),95,17
+ALI-PAN-1800,Alibag,Panvel,Alibag Bus Stand,18:00,20:12,Lalpari (Ordinary),95,27
+ALI-PAN-1830,Alibag,Panvel,Alibag Bus Stand,18:30,20:42,e-Shivai (Electric AC),145,35
+ALI-PAN-1900,Alibag,Panvel,Alibag Bus Stand,19:00,21:12,Lalpari (Ordinary),95,17
+ALI-PAN-1930,Alibag,Panvel,Alibag Bus Stand,19:30,21:42,Lalpari (Ordinary),95,17
+ALI-PAN-2000,Alibag,Panvel,Alibag Bus Stand,20:00,22:12,e-Shivai (Electric AC),145,19
+ALI-PAN-2030,Alibag,Panvel,Alibag Bus Stand,20:30,22:42,Shivshahi (AC),145,22
+ALI-PAN-2100,Alibag,Panvel,Alibag Bus Stand,21:00,23:12,Lalpari (Ordinary),95,9
+ALI-PAN-2230,Alibag,Panvel,Alibag Bus Stand,22:30,00:42,Lalpari (Ordinary),95,25
+THA-KAL-0530,Thane,Kalyan,Thane Khopat,05:30,06:22,Lalpari (Ordinary),40,3
+THA-KAL-0730,Thane,Kalyan,Thane Khopat,07:30,08:22,Lalpari (Ordinary),40,3
+THA-KAL-0930,Thane,Kalyan,Thane Khopat,09:30,10:22,e-Shivai (Electric AC),60,17
+THA-KAL-1000,Thane,Kalyan,Thane Khopat,10:00,10:52,Lalpari (Ordinary),40,27
+THA-KAL-1030,Thane,Kalyan,Thane Khopat,10:30,11:22,Lalpari (Ordinary),40,28
+THA-KAL-1130,Thane,Kalyan,Thane Khopat,11:30,12:22,Lalpari (Ordinary),40,13
+THA-KAL-1200,Thane,Kalyan,Thane Khopat,12:00,12:52,e-Shivai (Electric AC),60,7
+THA-KAL-1400,Thane,Kalyan,Thane Khopat,14:00,14:52,Lalpari (Ordinary),40,7
+THA-KAL-1430,Thane,Kalyan,Thane Khopat,14:30,15:22,Lalpari (Ordinary),40,37
+THA-KAL-1630,Thane,Kalyan,Thane Khopat,16:30,17:22,Lalpari (Ordinary),40,19
+THA-KAL-1700,Thane,Kalyan,Thane Khopat,17:00,17:52,Lalpari (Ordinary),40,25
+THA-KAL-1900,Thane,Kalyan,Thane Khopat,19:00,19:52,Shivshahi (AC),60,3
+THA-KAL-2100,Thane,Kalyan,Thane Khopat,21:00,21:52,Lalpari (Ordinary),40,19
+THA-KAL-2130,Thane,Kalyan,Thane Khopat,21:30,22:22,Shivshahi (AC),60,8
+THA-KAL-2230,Thane,Kalyan,Thane Khopat,22:30,23:22,e-Shivai (Electric AC),60,18
+KAL-THA-0500,Kalyan,Thane,Kalyan Bus Stand,05:00,05:52,Lalpari (Ordinary),40,4
+KAL-THA-0530,Kalyan,Thane,Kalyan Bus Stand,05:30,06:22,Shivshahi (AC),60,36
+KAL-THA-0600,Kalyan,Thane,Kalyan Bus Stand,06:00,06:52,Lalpari (Ordinary),40,25
+KAL-THA-0700,Kalyan,Thane,Kalyan Bus Stand,07:00,07:52,e-Shivai (Electric AC),60,26
+KAL-THA-0830,Kalyan,Thane,Kalyan Bus Stand,08:30,09:22,Lalpari (Ordinary),40,25
+KAL-THA-1030,Kalyan,Thane,Kalyan Bus Stand,10:30,11:22,Lalpari (Ordinary),40,20
+KAL-THA-1100,Kalyan,Thane,Kalyan Bus Stand,11:00,11:52,Lalpari (Ordinary),40,29
+KAL-THA-1130,Kalyan,Thane,Kalyan Bus Stand,11:30,12:22,e-Shivai (Electric AC),60,23
+KAL-THA-1300,Kalyan,Thane,Kalyan Bus Stand,13:00,13:52,Lalpari (Ordinary),40,6
+KAL-THA-1330,Kalyan,Thane,Kalyan Bus Stand,13:30,14:22,Lalpari (Ordinary),40,37
+KAL-THA-1530,Kalyan,Thane,Kalyan Bus Stand,15:30,16:22,Lalpari (Ordinary),40,5
+KAL-THA-1600,Kalyan,Thane,Kalyan Bus Stand,16:00,16:52,Lalpari (Ordinary),40,19
+KAL-THA-1830,Kalyan,Thane,Kalyan Bus Stand,18:30,19:22,e-Shivai (Electric AC),60,14
+KAL-THA-1900,Kalyan,Thane,Kalyan Bus Stand,19:00,19:52,Lalpari (Ordinary),40,10
+KAL-THA-1930,Kalyan,Thane,Kalyan Bus Stand,19:30,20:22,Lalpari (Ordinary),40,7
+KAL-THA-2030,Kalyan,Thane,Kalyan Bus Stand,20:30,21:22,Lalpari (Ordinary),40,12
+KAL-THA-2130,Kalyan,Thane,Kalyan Bus Stand,21:30,22:22,Shivshahi (AC),60,22
+KAL-THA-2200,Kalyan,Thane,Kalyan Bus Stand,22:00,22:52,Lalpari (Ordinary),40,9
+KAL-THA-2230,Kalyan,Thane,Kalyan Bus Stand,22:30,23:22,Lalpari (Ordinary),40,9
+NAV-PAN-0700,Navi Mumbai,Panvel,Vashi Bus Station,07:00,07:48,Shivshahi (AC),55,20
+NAV-PAN-0930,Navi Mumbai,Panvel,Vashi Bus Station,09:30,10:18,Lalpari (Ordinary),35,4
+NAV-PAN-1000,Navi Mumbai,Panvel,Vashi Bus Station,10:00,10:48,Lalpari (Ordinary),35,19
+NAV-PAN-1030,Navi Mumbai,Panvel,Vashi Bus Station,10:30,11:18,e-Shivai (Electric AC),55,37
+NAV-PAN-1100,Navi Mumbai,Panvel,Vashi Bus Station,11:00,11:48,Lalpari (Ordinary),35,32
+NAV-PAN-1200,Navi Mumbai,Panvel,Vashi Bus Station,12:00,12:48,Lalpari (Ordinary),35,29
+NAV-PAN-1230,Navi Mumbai,Panvel,Vashi Bus Station,12:30,13:18,Lalpari (Ordinary),35,3
+NAV-PAN-1400,Navi Mumbai,Panvel,Vashi Bus Station,14:00,14:48,Lalpari (Ordinary),35,18
+NAV-PAN-1430,Navi Mumbai,Panvel,Vashi Bus Station,14:30,15:18,Lalpari (Ordinary),35,5
+NAV-PAN-1500,Navi Mumbai,Panvel,Vashi Bus Station,15:00,15:48,e-Shivai (Electric AC),55,32
+NAV-PAN-1530,Navi Mumbai,Panvel,Vashi Bus Station,15:30,16:18,Lalpari (Ordinary),35,37
+NAV-PAN-1630,Navi Mumbai,Panvel,Vashi Bus Station,16:30,17:18,Lalpari (Ordinary),35,2
+NAV-PAN-1700,Navi Mumbai,Panvel,Vashi Bus Station,17:00,17:48,Lalpari (Ordinary),35,36
+NAV-PAN-1730,Navi Mumbai,Panvel,Vashi Bus Station,17:30,18:18,e-Shivai (Electric AC),55,20
+NAV-PAN-1800,Navi Mumbai,Panvel,Vashi Bus Station,18:00,18:48,e-Shivai (Electric AC),55,32
+NAV-PAN-1930,Navi Mumbai,Panvel,Vashi Bus Station,19:30,20:18,Lalpari (Ordinary),35,3
+NAV-PAN-2000,Navi Mumbai,Panvel,Vashi Bus Station,20:00,20:48,Lalpari (Ordinary),35,21
+NAV-PAN-2200,Navi Mumbai,Panvel,Vashi Bus Station,22:00,22:48,Shivshahi (AC),55,5
+PAN-PEN-0530,Panvel,Pen,Panvel Bus Stand,05:30,06:54,e-Shivai (Electric AC),95,18
+PAN-PEN-0600,Panvel,Pen,Panvel Bus Stand,06:00,07:24,Lalpari (Ordinary),60,38
+PAN-PEN-0630,Panvel,Pen,Panvel Bus Stand,06:30,07:54,Shivshahi (AC),95,21
+PAN-PEN-0730,Panvel,Pen,Panvel Bus Stand,07:30,08:54,Lalpari (Ordinary),60,9
+PAN-PEN-0900,Panvel,Pen,Panvel Bus Stand,09:00,10:24,Shivshahi (AC),95,19
+PAN-PEN-0930,Panvel,Pen,Panvel Bus Stand,09:30,10:54,Shivshahi (AC),95,25
+PAN-PEN-1000,Panvel,Pen,Panvel Bus Stand,10:00,11:24,Lalpari (Ordinary),60,5
+PAN-PEN-1030,Panvel,Pen,Panvel Bus Stand,10:30,11:54,Lalpari (Ordinary),60,24
+PAN-PEN-1100,Panvel,Pen,Panvel Bus Stand,11:00,12:24,e-Shivai (Electric AC),95,21
+PAN-PEN-1130,Panvel,Pen,Panvel Bus Stand,11:30,12:54,e-Shivai (Electric AC),95,33
+PAN-PEN-1230,Panvel,Pen,Panvel Bus Stand,12:30,13:54,Lalpari (Ordinary),60,27
+PAN-PEN-1300,Panvel,Pen,Panvel Bus Stand,13:00,14:24,Lalpari (Ordinary),60,1
+PAN-PEN-1400,Panvel,Pen,Panvel Bus Stand,14:00,15:24,Lalpari (Ordinary),60,11
+PAN-PEN-1430,Panvel,Pen,Panvel Bus Stand,14:30,15:54,Shivshahi (AC),95,21
+PAN-PEN-1530,Panvel,Pen,Panvel Bus Stand,15:30,16:54,Shivshahi (AC),95,31
+PAN-PEN-1800,Panvel,Pen,Panvel Bus Stand,18:00,19:24,Lalpari (Ordinary),60,8
+PAN-PEN-1900,Panvel,Pen,Panvel Bus Stand,19:00,20:24,Lalpari (Ordinary),60,18
+PAN-PEN-2000,Panvel,Pen,Panvel Bus Stand,20:00,21:24,e-Shivai (Electric AC),95,6
+PAN-PEN-2030,Panvel,Pen,Panvel Bus Stand,20:30,21:54,Lalpari (Ordinary),60,34
+PAN-PEN-2100,Panvel,Pen,Panvel Bus Stand,21:00,22:24,e-Shivai (Electric AC),95,33
+PAN-PEN-2200,Panvel,Pen,Panvel Bus Stand,22:00,23:24,Lalpari (Ordinary),60,21
+PAN-PEN-2230,Panvel,Pen,Panvel Bus Stand,22:30,23:54,Shivshahi (AC),95,8
+BOR-PAL-0530,Borivali,Palghar,Borivali (Nancy Colony),05:30,07:10,e-Shivai (Electric AC),200,23
+BOR-PAL-0700,Borivali,Palghar,Borivali (Nancy Colony),07:00,08:40,Hirkani (Semi-luxury),175,28
+BOR-PAL-0830,Borivali,Palghar,Borivali (Nancy Colony),08:30,10:10,Shivshahi (AC),200,18
+BOR-PAL-1100,Borivali,Palghar,Borivali (Nancy Colony),11:00,12:40,e-Shivai (Electric AC),200,14
+BOR-PAL-1715,Borivali,Palghar,Borivali (Nancy Colony),17:15,18:55,Shivshahi (AC),200,15
+BOR-PAL-1900,Borivali,Palghar,Borivali (Nancy Colony),19:00,20:40,Shivshahi (AC),200,30
+BOR-PAL-2230,Borivali,Palghar,Borivali (Nancy Colony),22:30,00:10,Hirkani (Semi-luxury),175,23

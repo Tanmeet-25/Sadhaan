@@ -1,0 +1,29 @@
+complaint_id,timestamp,category,route,status
+C1016,2026-09-13 22:00,Bus late / cancelled,Kalyan → Thane,Resolved
+C1010,2026-09-15 11:00,Refund not received,Borivali → Virar,Open
+C1001,2026-09-15 21:00,Refund not received,Thane → Panvel,Resolved
+C1025,2026-09-15 22:00,Bus late / cancelled,Thane → Navi Mumbai,Open
+C1017,2026-09-16 12:00,Rude behaviour,Mumbai → Thane,Resolved
+C1014,2026-09-16 17:00,Bus late / cancelled,Thane → Kalyan,In progress
+C1020,2026-09-17 16:00,Rude behaviour,Pune → Nashik,Resolved
+C1008,2026-09-19 13:00,Refund not received,Bhiwandi → Thane,Open
+C1027,2026-09-19 19:00,Overcrowding,Thane → Kalyan,Open
+C1005,2026-09-20 20:00,Bus late / cancelled,Mumbai → Alibag,Resolved
+C1023,2026-09-23 12:00,Overcrowding,Mumbai → Alibag,Resolved
+C1015,2026-09-24 13:00,Refund not received,Virar → Borivali,Open
+C1007,2026-09-25 19:00,Bus late / cancelled,Satara → Pune,Resolved
+C1024,2026-09-25 20:00,Bus late / cancelled,Pune → Mumbai,Resolved
+C1009,2026-09-26 17:00,Refund not received,Kalyan → Murbad,In progress
+C1011,2026-09-26 18:00,Refund not received,Mumbai → Alibag,In progress
+C1013,2026-09-26 21:00,Bus late / cancelled,Nashik → Pune,Open
+C1003,2026-09-26 22:00,Bus late / cancelled,Thane → Bhiwandi,Resolved
+C1018,2026-09-28 19:00,Bus late / cancelled,Pune → Nashik,Resolved
+C1021,2026-09-28 19:00,Overcrowding,Thane → Navi Mumbai,Resolved
+C1019,2026-09-30 17:00,Bus not clean,Kalyan → Murbad,In progress
+C1026,2026-09-30 19:00,Bus late / cancelled,Pune → Chhatrapati Sambhajinagar,Resolved
+C1028,2026-10-04 21:00,Refund not received,Navi Mumbai → Thane,Resolved
+C1006,2026-10-06 20:00,Bus late / cancelled,Navi Mumbai → Panvel,Resolved
+C1002,2026-10-07 10:00,Bus late / cancelled,Panvel → Pen,In progress
+C1022,2026-10-09 13:00,Refund not received,Kolhapur → Sangli,In progress
+C1004,2026-10-09 22:00,Bus late / cancelled,Thane → Borivali,In progress
+C1012,2026-10-10 17:00,Overcrowding,Pune → Chhatrapati Sambhajinagar,Resolved
